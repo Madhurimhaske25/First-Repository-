@@ -1,0 +1,77 @@
+Being the only female software developer in a team is both unique and challenging – and it happens a lot. This is my story.
+I have to be honest; this path is laden with high expectations, stereotypes, and the constant pressure to prove oneself.
+
+But it’s also a journey of resilience, empowerment, friendship, and breaking barriers.
+
+So, you may ask, what does it feel like to be the only girl in a team or a company? In some cases, it’s not a good feeling.
+
+Who’s going to organize a party?
+Arriving at a site and noticing all eyes on you, simply because of your gender can be disconcerting.
+
+Women in tech understand that it can take time to find friends, as there may not be many female peers who can relate to their experiences. You long for someone who can reassure you and help alleviate the stares. It often feels like a game of musical chairs in your mind, where you anticipate being the one left standing.
+
+Therefore, women must exert additional effort, determination, and speed to establish their position in an environment where they are frequently perceived as outliers.
+
+Also, day-to-day work life for female engineers can go beyond coding – it often entails being both voluntarily and involuntarily nominated as the diversity and non-technical-stuff champion.
+
+In my previous jobs, I learned that being assigned certain tasks often reflects an underlying expectation for women to fulfill specific roles. Such tasks included organizing meetings and lunches, buying gifts for other employees on various holidays, arranging and preparing rooms for meetings and taking notes from them, or representing the company at external events to ensure ‘representation and diversity.’
+
+For some reason, these requests were always the first to go to me or possibly another female colleague. It’s a delicate balance between embracing the role of a team player and ensuring I don’t inadvertently box myself into stereotypes.
+
+But, while organizing team events and managing administrative tasks, I’ve learned the importance of volunteering for projects that push my limits, not just those that fit into stereotypical female roles.
+
+Stand out but also fit in
+The pressure to stand out while also fitting in is a constant companion for some of our colleagues.
+
+Our actions, I’ve noticed, can be magnified – it is a double-edged sword that’s both a curse and a blessing. This means that every mistake I make can seem bigger, but it also means that my successes can be more visible.
+
+By being “The Only One,” practically everyone around you associates your name and you alone. This makes people more likely to notice and remember your actions.
+
+I used to feel reluctant to ask questions or clarify doubts, worrying that doing so might reinforce stereotypes about women’s technical abilities, even though seeking clarification is a normal part of the learning and development process.
+
+
+This visibility has forced me to constantly confront imposter syndrome, undermining the feeling that I have to work twice as hard to be considered at least half as good. It’s a struggle in which I’ve had to learn that my worth is not diminished by my gender and that certain limitations can be created by me in my head.
+
+My journey has been riddled with moments that remind me that I am navigating a space that was not originally designed for me. From the awkwardness some colleagues exhibited around women to being labeled as “too loud, too pushy” in discussions or conversations – whereas some male colleagues displaying similar behavior were described as “assertive” and “passionate.”
+
+There were times when I presented some topic or joined a discussion, and I could feel the dynamics and energy change immediately – people were more skeptical, answered questions as if I had joined the team yesterday, or I got the feeling they were trying to disagree with me by force.
+
+It’s like I was constantly being measured by a different standard that fluctuates between being too feminine and not feminine enough.
+
+One of my biggest challenges has been integrating into teams, where I am the exception. While trying to adapt to such an environment, it can be tempting to “become one of the guys,” it’s the kind of survival tactic that, while effective, often makes you replicate these uncool behaviors rather than trying to change things for the better.
+
+If I had to give any advice on how to find oneself in such a situation, it would be to communicate very directly with others and not be afraid to speak up for yourself. Don’t doubt yourself. If someone interrupts you or tries to take over what’s yours – speak up.
+
+But if that doesn’t work, find a new team, the one that accepts you as a woman and as an engineer.
+
+Embrace the uniqueness
+Despite these challenges, I’ve discovered that my unique position as the only woman on the team can bring noteworthy perspectives.
+
+My journey in navigating male-dominated spaces has honed my communication skills, enabling me to navigate and mediate complex discussions with various people quite easily. It can also positively influence team dynamics and help with conflict resolution and customer interactions.
+
+My experiences have taught me the importance of empathy and emotional intelligence in tech – a field often criticized for its lack of understanding. These “soft skills,” which I bring to the table, partially complement the team’s technical expertise, driving us toward more nuanced and holistic solutions.
+
+I have learned not to take failures, criticism, and differing opinions personally. In my opinion and experience, in male teams, everything is talked about much more straightforwardly, without being crude, and nobody has a problem with it. We discuss ideas and actions, not individuals. If someone says, “This idea is stupid because of …” – no harm, no foul.
+
+Once you have experienced the situation of being “The Only One” and fully face it, you will forget that you are a “female engineer” and start to think that you are an individuated co-worker, equal to everyone else.
+
+You will not be surprised by any similar situation in your life or future jobs. You will know your value, and you will always stick to it.
+
+The woman who coined the term “software engineering”
+Diversity and inclusion in tech require a collective effort, not an individual pursuit.
+
+Looking ahead, I draw inspiration from pioneer women who have shattered ceilings and paved the way for others like me. Their stories are not just tales of personal achievement but beacons of what women can accomplish in the face of adversity.
+
+If you’re not familiar with Margaret Hamilton, a name synonymous with the Apollo missions, led the software engineering division at MIT under NASA’s Project Apollo. Her groundbreaking work in developing the onboard flight software for the Apollo missions was critical to the success of landing astronauts on the Moon.
+
+Hamilton dedicated herself to her work and innovatively approached software development, thereby coining the term “software engineering.” She pioneered this discipline at a time when the aerospace engineering community had yet to recognize the crucial role of software.
+
+Her vision and tenacity in a field dominated by men during the 1960s demonstrate the profound impact one person can have on technology and space exploration. Hamilton’s legacy teaches me the power of perseverance and the importance of pioneering new frontiers, regardless of the obstacles.
+
+On the other hand, Susan Wojcicki has revolutionized YouTube as CEO since 2014. Under her leadership, YouTube has not only grown into a global platform but has also become a critical space for voices from diverse backgrounds to be heard.
+
+Her advocacy for gender equality and diversity in the tech industry is evident in her initiatives to promote female representation and inclusion. Her efforts to implement family-friendly policies at YouTube, including extended maternity leave, have set new standards for supporting women in the workplace.
+
+These stories illuminate the path and assure me that the journey towards diversity and inclusion in tech is not a solitary one but a collective endeavor enriched by the contributions of those who dare to dream and break barriers.
+
+I hope it continues to inspire the next generation of female developers. It’s a reminder that our differences are our strengths, and through embracing them, we can reshape the tech industry to be more inclusive, innovative, and reflective of the world it serves.
